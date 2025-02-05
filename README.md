@@ -20,7 +20,8 @@
     </section>
 
 <h2> 🤳 Connect with me:</h2>
-
+ <p>Email: your.email@example.com</p>
+        <p>LinkedIn: <a href="your_linkedin_profile" target="_blank">https://www.linkedin.com/in/joshua-peeke-652097267</a></p>
 
 [linkedin]: https://www.linkedin.com/in/joshua-peeke-652097267
 
