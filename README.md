@@ -8,7 +8,16 @@
 
 - <b>Python</b>
 
-
+ <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Penetration Testing</li>
+            <li>Network Security</li>
+            <li>Vulnerability Assessment</li>
+            <li>Incident Response</li>
+            <li>Scripting (Python, Bash)</li>
+            </ul>
+    </section>
 
 <h2> 🤳 Connect with me:</h2>
 
